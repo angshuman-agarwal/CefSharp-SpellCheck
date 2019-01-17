@@ -1,12 +1,5 @@
-CefSharp.MinimalExample
-=======================
+spellcheck.dictionaries issue
+=============================
 
-Minimal example of how the CefSharp library can be used using the official `Nuget` packages. 
-
-Includes examples for
-- WinForms
-- WPF
-- OffScreen
- 
-
-For a more complete example of each project see the main `CefSharp` repository.
+When trying to set a LIST of items, always returns this error message : 
+Trying to set a preference of type LIST to value of type NULL
